@@ -39,8 +39,8 @@
 |:---|:---|
 |<a href="https://softuni.bg/trainings/3503/programming-basics-with-csharp-september-2021" > Programming Basics with C# </a>| <a href="https://softuni.bg/certificates/details/116000/cba07c97"> 👉📜✔️</a> |
 |<a href="https://softuni.bg/trainings/3606/programming-fundamentals-with-csharp-january-2022"> C# Fundamentals </a>| <a href="https://softuni.bg/certificates/details/130079/8ed16721"> 👉📜✔️</a> |
-|<a href="https://softuni.bg/trainings/2444/csharp-advanced-september-2019"> C# Advanced </a>| Soon™ 👨‍💻 </a> |
-|<a href="https://softuni.bg/trainings/2444/csharp-advanced-september-2019"> C# OOP </a>| Soon™ 👨‍💻 </a> |
+|<a href="https://softuni.bg/trainings/3699/csharp-advanced-may-2022"> C# Advanced </a>| Soon™ 👨‍💻 </a> |
+|<a href="https://softuni.bg/trainings/3700/csharp-oop-june-2022"> C# OOP </a>| Soon™ 👨‍💻 </a> |
 
 
 ### 🤝🏻  &nbsp;Connect with Me
