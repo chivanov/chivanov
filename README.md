@@ -45,7 +45,7 @@
 
 ### 🤝🏻  &nbsp;Connect with Me
 
-<a href="https://https://www.linkedin.com/in/chavdar-ivanov-0b669a83/"><img src="https://img.shields.io/badge/-Chavdar%20Ivanov-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/chavdar-ivanov-0b669a83/"><img src="https://img.shields.io/badge/-Chavdar%20Ivanov-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ch.ivanov69@gmail.com"><img src="https://img.shields.io/badge/-ch.ivanov69@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://discord.com/users/Chavdar#5583"><img src="https://img.shields.io/badge/-Chavdar%235583-5865F2?style=flat&logo=discord&logoColor=white"/></a>
 <!--  <a href="https://www.reddit.com/user/TerterBG"><img src="https://img.shields.io/badge/-Reddit-FF4500?style=flat&logo=reddit&logoColor=white"/></a> -->
