@@ -10,7 +10,7 @@
 <p>
 <a align="left" href="https://github.com/chivanov">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chivanov&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chivanov&layout=compact&langs_count=8&hide=java,r&theme=react "/>
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chivanov&layout=compact&langs_count=8&hide=java,r&theme=react "/>
 </a>
 </p>
 
