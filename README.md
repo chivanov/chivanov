@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px" align="center"> Hi there! I'm Chavdar 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" align="center"> Hi there! I'm Chavdar 
 <em>I am working as a Liaison Officer at <a href=https://www.nspa.nato.int/>NATO Support and Procurement Agency(NSPA)</a>, where I represent the Bulgarian Authorities and coordinate all activities concerning acquisition and logistics support delivered by NSPA to the Bulgarian Armed Forces. 
 
 ### &nbsp;About Me
